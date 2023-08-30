@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Fib Calulator
+            Fib Calulator Elastik-bean-stalk
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
